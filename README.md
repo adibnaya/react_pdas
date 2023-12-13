@@ -14,21 +14,21 @@ To run this project, you need to have Node.js installed on your machine.
 
 1.  **Clone the repository:**
 
-    bashCopy code
-
-    `git clone https://github.com/adibnaya/react_pdas.git`
+    ```bash
+    git clone https://github.com/adibnaya/react_pdas.git
+    ```
 
 2.  **Navigate to the project directory:**
 
-    bashCopy code
-
-    `cd react_pdas`
+    ```bash
+    cd react_pdas
+    ```
 
 3.  **Install dependencies:**
 
-    Copy code
-
-    `npm install`
+    ```bash
+    npm install
+    ```
 
 
 Usage
@@ -36,9 +36,9 @@ Usage
 
 To start the application, run the following command in the project directory:
 
-sqlCopy code
-
-`npm start`
+```bash
+npm start
+```
 
 This will run the app in development mode. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
